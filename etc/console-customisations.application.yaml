@@ -7,6 +7,7 @@ spec:
     name: ''
     namespace: ''
     server: 'https://kubernetes.default.svc'
+    text: Fáilte chuig Red Hat Summit 2023!
   source:
     path: console-customisations/
     repoURL: 'https://github.com/REPLACE_THIS/rht-summit-2023-gitops-cluster-mgmt'
